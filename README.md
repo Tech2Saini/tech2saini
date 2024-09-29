@@ -35,7 +35,7 @@
 
 **🌐 Connect with Me:**
 - **LinkedIn- [Monu Saini](https://www.linkedin.com/in/monupydev)**
-- **Hacker-Rank- [Monu Saini]([https://www.linkedin.com/in/monupydev](https://www.hackerrank.com/profile/tech2saini))**
+- **Hacker Rank- [Monu Saini]([https://www.linkedin.com/in/monupydev](https://www.hackerrank.com/profile/tech2saini)**
 
 ---
 
