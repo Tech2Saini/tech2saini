@@ -1,10 +1,6 @@
 # Hi there, I'm Monu Saini 👋
 ---
-<a href="/Monu Saini Resume.pdf" style="display: inline-block; text-decoration: none; color: white; padding: 10px 15px; border-radius: 5px; font-size: 20px; font-family: Arial, sans-serif; background: linear-gradient(to right, cyan, blue); box-shadow: 0 0 5px cyan; width: 230px; text-align: center;">
-  <img src="cv.png" alt="icon" style="width:20px; height: 20px; vertical-align: middle; margin-right: 8px;" />
-  <span>Download CV</span>
-</a>
-
+[![icon]cv.png)](https://raw.githubusercontent.com/Tech2Saini/tech2saini/5e891ef03b511bcb7b3864f245c661ec5bd10f05/Monu%20Saini%20Resume.pdf) Download CV
 ---
 ##### Welcome to my GitHub! I'm a passionate coder and data science enthusiast, always excited to work on innovative projects.
 
