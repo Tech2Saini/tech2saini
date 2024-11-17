@@ -7,7 +7,7 @@
 
 
 <a href="https://example.com" style="display: inline-block; text-decoration: none; color: white; padding: 10px 15px; border-radius: 5px; font-size: 20px; font-family: Arial, sans-serif; background: linear-gradient(to right, cyan, blue); box-shadow: 0 0 5px cyan; width: 230px; text-align: center;">
-  <img src="cv.png" alt="icon" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 8px;" />
+  <img src="cv.png" alt="icon" style="width: 30px; height: 30px; vertical-align: middle; margin-right: 8px;" />
   View Project
 </a>
 
