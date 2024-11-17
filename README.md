@@ -2,6 +2,11 @@
 ---
 [Download CV](https://raw.githubusercontent.com/Tech2Saini/tech2saini/0532cd81ef97cec448e51cc1ff108f4989bbe5ff/Monu%20Saini%20Resume.pdf)
 [![Button Text](cv.png)](https://link-to-your-button-destination)
+<a href="https://example.com" style="display: inline-flex; align-items: center; text-decoration: none; background-color: #0078D7; color: white; padding: 10px 15px; border-radius: 5px; font-size: 14px; font-family: Arial, sans-serif;">
+  <img src="https://path-to-your-image/icon.png" alt="icon" style="width: 20px; height: 20px; margin-right: 8px;" />
+  View Project
+</a>
+
 
 ---
 ##### Welcome to my GitHub! I'm a passionate coder and data science enthusiast, always excited to work on innovative projects.
