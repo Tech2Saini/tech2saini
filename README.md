@@ -3,10 +3,13 @@
 
 
 
-<a href="https://raw.githubusercontent.com/Tech2Saini/tech2saini/5e891ef03b511bcb7b3864f245c661ec5bd10f05/Monu%20Saini%20Resume.pdf" style="display: inline-flex; align-items: center; text-decoration: none; background-color: #0078D7; color: white; padding: 10px 15px; border-radius: 5px; font-size: 14px; font-family: Arial, sans-serif;">
+<a href="" style="display: inline-flex; align-items: center; text-decoration: none; background-color: #0078D7; color: white; padding: 10px 15px; border-radius: 5px; font-size: 14px; font-family: Arial, sans-serif;">
   <img src="cv.png" alt="icon" style="width: 20px; height: 20px; margin-right: 8px;" />
   Download
 </a>
+
+[![icon](cv.png)](https://raw.githubusercontent.com/Tech2Saini/tech2saini/5e891ef03b511bcb7b3864f245c661ec5bd10f05/Monu%20Saini%20Resume.pdf) Download CV
+
 
 
 ---
