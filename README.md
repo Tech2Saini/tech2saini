@@ -4,6 +4,7 @@
   <img src="cv.png" alt="icon" style="width:20px; height: 20px; vertical-align: middle; margin-right: 8px;" />
   <span>Download CV</span>
 </a>
+
 ---
 ##### Welcome to my GitHub! I'm a passionate coder and data science enthusiast, always excited to work on innovative projects.
 
