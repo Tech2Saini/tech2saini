@@ -1,14 +1,11 @@
 # Hi there, I'm Monu Saini 👋
 ---
-<a href="https://raw.githubusercontent.com/Tech2Saini/tech2saini/0532cd81ef97cec448e51cc1ff108f4989bbe5ff/Monu%20Saini%20Resume.pdf" style="align-items: center; text-decoration: none;color: white; padding: 10px 15px; border-radius: 5px; font-size: 14px; font-family: Arial, sans-serif;display: flex;box-shadow: 0 0 5px cyan;width: 230px;padding: 3px 5px;justify-content: center">
-  <img style="margin:auto;" src="cv.png" alt="icon" style="width: 20px; height: 20px; margin-right: 8px;" />
-  <span style="margin:auto;">Download CV</span>
-</a>
 
 
-<a href="https://example.com" style="display: inline-block; text-decoration: none; color: white; padding: 10px 15px; border-radius: 5px; font-size: 20px; font-family: Arial, sans-serif; background: linear-gradient(to right, cyan, blue); box-shadow: 0 0 5px cyan; width: 230px; text-align: center;">
+
+<a href="/Monu Saini Resume.pdf" style="display: inline-block; text-decoration: none; color: white; padding: 10px 15px; border-radius: 5px; font-size: 20px; font-family: Arial, sans-serif; background: linear-gradient(to right, cyan, blue); box-shadow: 0 0 5px cyan; width: 230px; text-align: center;">
   <img src="cv.png" alt="icon" style="width: 30px; height: 30px; vertical-align: middle; margin-right: 8px;" />
-  View Project
+  <span>Download CV</span>
 </a>
 
 
