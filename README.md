@@ -1,10 +1,8 @@
 # Hi there, I'm Monu Saini 👋
 ---
-[Download CV]()
-[![Button Text]()](https://link-to-your-button-destination)
 <a href="https://raw.githubusercontent.com/Tech2Saini/tech2saini/0532cd81ef97cec448e51cc1ff108f4989bbe5ff/Monu%20Saini%20Resume.pdf" style="display: inline-flex; align-items: center; text-decoration: none; background-color: #0078D7; color: white; padding: 10px 15px; border-radius: 5px; font-size: 14px; font-family: Arial, sans-serif;">
   <img src="cv.png" alt="icon" style="width: 20px; height: 20px; margin-right: 8px;" />
-  View Project
+  <span>Download CV</span>
 </a>
 
 
