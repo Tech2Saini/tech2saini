@@ -5,6 +5,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 I'm a passionate Developer, Data Science enthusiast, and AI/ML advocate who loves solving complex problems and building impactful projects. 🚀
+### Hire Me ! [Download CV](https://raw.githubusercontent.com/Tech2Saini/tech2saini/5e891ef03b511bcb7b3864f245c661ec5bd10f05/Monu%20Saini%20Resume.pdf)
 
 ---
 
@@ -66,7 +67,7 @@ I'm a passionate Developer, Data Science enthusiast, and AI/ML advocate who love
 ## Connect with Me <img alt="Connect" width="40px" src="/Assets/connect.png"/>
 
 [<img align="left" alt="GitHub" width="30px" src="/Assets/github.png" />](https://github.com/tech2saini)
-[<img align="left" alt="LinkedIn" width="30px" src="/Assets/linkedin.png" />](https://www.linkedin.com/in/monusaini)
-[<img align="left" alt="Instagram" width="30px" src="/Assets/instagram.png" />](https://www.instagram.com/monusainideveloper)
+[<img align="left" alt="LinkedIn" width="30px" src="/Assets/linkedin.png" />](https://www.linkedin.com/in/monupydev/)
+
 [<img align="left" alt="Email" width="30px" src="/Assets/gmail.png" />](mailto:monusainideveloper@gmail.com)
 
