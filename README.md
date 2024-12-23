@@ -5,7 +5,9 @@
 <img align='right' src="/Assets/pregif.gif" width="230">
 
 I'm a passionate Developer, Data Science enthusiast, and AI/ML advocate who loves solving complex problems and building impactful projects. 🚀
-### Hire Me ! [Download CV](https://raw.githubusercontent.com/Tech2Saini/tech2saini/5e891ef03b511bcb7b3864f245c661ec5bd10f05/Monu%20Saini%20Resume.pdf)
+### Hire Me ! [Download CV](https://raw.githubusercontent.com/Tech2Saini/tech2saini/5e891ef03b511bcb7b3864f245c661ec5bd10f05/Monu%20Saini%20Resume.pdf) <a href="https://codesbird.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Portfolio-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Button">
+</a>
 
 ---
 
