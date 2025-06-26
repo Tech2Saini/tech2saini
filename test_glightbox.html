@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Glightbox Full Features Gallery</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Glightbox CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
+
+  <style>
+    body {
+      padding: 2rem;
+      height: 50vh;
+      position: relative;
+      overflow: scroll;
+      background-color: #f0f0f0;
+    }
+
+    .gallery a {
+      display: inline-block;
+      margin: 10px;
+      width: 200px;
+    }
+
+    .gallery img {
+      width: 100%;
+      border-radius: 8px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    /* 🛠 Fix: Enable vertical scroll for tall images */
+    .glightbox-container .gslide-image {
+      height: 100vh !important;
+      overflow-y: auto !important;
+      -webkit-overflow-scrolling: touch;
+      display: flex;
+      align-items: flex-start;
+      justify-content: center;
+    }
+
+    .glightbox-container .gslide-image img {
+      max-height: unset !important;
+      height: auto;
+      max-width: 100%;
+      object-fit: contain;
+    }
+
+    /* 🔕 Hide next/prev buttons */
+    .glightbox-button-prev,
+    .glightbox-button-next {
+      display: none !important;
+    }
+  </style>
+</head>
+<body>
+
+<div class="gallery">
+  <!-- Image group -->
+  <a href="/static/images/portfolios/a+/shoes1.jpg" class="glightbox" data-gallery="media">
+    <img src="/static/images/portfolios/a+/shoes1.jpg" alt="">
+  </a>
+  <a href="/static/images/portfolios/a+/towel1.jpg" class="glightbox" data-gallery="media">
+    <img src="/static/images/portfolios/a+/towel1.jpg" alt="">
+  </a>
+  <a href="/static/images/portfolios/a+/watch1.jpg" class="glightbox" data-gallery="media">
+    <img src="/static/images/portfolios/a+/watch1.jpg" alt="">
+  </a>
+
+  <!-- Video group -->
+  <a href="https://www.youtube.com/watch?v=ScMzIvxBSi4" class="glightbox" data-gallery="media" data-type="video">
+    <img src="https://img.youtube.com/vi/ScMzIvxBSi4/mqdefault.jpg" alt="">
+  </a>
+</div>
+
+<!-- Glightbox JS -->
+<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+<script>
+  const lightbox = GLightbox({
+    selector: '.glightbox',
+    touchNavigation: true,
+    loop: false,
+    zoomable: true,
+    closeOnOutsideClick: true,
+    slideEffect: 'fade',
+    autoplayVideos: true,
+    videos: {
+      autoplay: true,
+      mute: false,
+      controls: true,
+      stopOnClose: true
+    },
+    moreText: '',
+    plyr: {
+      css: 'https://cdn.plyr.io/3.6.8/plyr.css',
+      js: 'https://cdn.plyr.io/3.6.8/plyr.polyfilled.js',
+    }
+  });
+</script>
+
+</body>
+</html>
