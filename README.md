@@ -42,20 +42,20 @@ I'm a passionate Developer, Data Science enthusiast, and AI/ML advocate who love
 
 ## My Projects <img alt="Projects" width="40px" src="/Assets/project.png"/>
 
-### [Fake News Detection and Fact-Checking System](https://github.com/tech2saini/fake-news-detection)
+### [Fake News Detection and Fact-Checking System](https://github.com/Tech2Saini/Ai-Based-Fake-News-Detection-and-Fact-checking-System)
 - Leveraged machine learning to detect fake news with high accuracy.
 - Introduced a fact-checking feature using custom APIs.
 - Enhanced user engagement with features like authentication, feedback sharing, and verified channels.
 
-### KSecure: Safe Browsing Extension
+### [ksecure Internet Security Enhancement](https://github.com/Tech2Saini/ksecure-Internet-Security-Enhancement)
 - Developed a Chrome extension to identify dark patterns on e-commerce websites.
 - Integrated tools for internet security, including VPN and ethical design promotion.
 
-### Sales Prediction System
+### [Sales Prediction System](https://github.com/Tech2Saini/Sale-Prediction)
 - Implemented using Python for accurate sales forecasting based on historical data.
 - Utilized `pandas` and `numpy` for data manipulation.
 
-### News Aggregator
+### [News Aggregator Centralized News Dashboard](https://github.com/Tech2Saini/News-Aggregator-Centralized-News-Dashboard)
 - Built a platform to consolidate news from multiple sources, ensuring relevant and up-to-date content.
 
 ---
